@@ -13,3 +13,7 @@ in different conditions such as buffer types, pH, beamline power or site-specifi
 
 To achieve mentioned purposes, an implementation is needed (such as https://github.com/n-riesco/ijavascript) to be able to run java-based CAVER algorithm.
 The post-processing of calculated pathways will then be analyzed using the self written modules. Additionally, a pymol interpeter (https://github.com/nglviewer/nglview will be usedin Jupyter notebook to create figures and visualisations. 
+
+required packages: 
+-pandas
+-nglview
